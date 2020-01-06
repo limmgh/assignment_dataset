@@ -1,0 +1,26 @@
+<annotation>
+	<folder>man</folder>
+	<filename>man-22.jpg</filename>
+	<path>C:\Users\Admin\Desktop\iti107\man\man-22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>man-22</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>4</ymin>
+			<xmax>535</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>man</folder>
+	<filename>man-39.jpg</filename>
+	<path>C:\Users\Admin\Desktop\iti107\man\man-39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>man-39</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>172</ymin>
+			<xmax>489</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
