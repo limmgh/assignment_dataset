@@ -1,0 +1,26 @@
+<annotation>
+	<folder>woman</folder>
+	<filename>woman-34.jpg</filename>
+	<path>C:\Users\Admin\Desktop\iti107\woman\woman-34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>woman-34</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>59</ymin>
+			<xmax>528</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>
